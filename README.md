@@ -4,6 +4,9 @@ Ceci est un POC. Il a pour objectif de créer une table des matières dont les s
 
 Dans cet exemple, le sommaire se présente sous forme de ligne de transport en commun.
 
+## Démo
+
+https://outlinejs.y-tournebise.com/
 
 ## Note à propos du code
 

@@ -6,7 +6,7 @@ Dans cet exemple, le sommaire se présente sous forme de ligne de transport en c
 
 ## Démo
 
-https://outlinejs.y-tournebise.com/
+https://outlinejs.yori.mirano.fr/
 
 ## Note à propos du code
 
